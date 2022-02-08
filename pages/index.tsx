@@ -24,6 +24,7 @@ const Home: NextPage = () => {
         <div className={styles.container}>
             <Head>
                 <meta name="google-site-verification" content="ORz6tB0hkB7rktH63i-lP3KX7fzkZVGtfVpSHJfE5cY"/>
+                <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <title>kwsites.co.uk</title>
                 <link rel="icon" href="/kwsites-logo.svg"/>
             </Head>
